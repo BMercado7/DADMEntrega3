@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Cards</string>
+    <string name="question_text">Question</string>
+    <string name="answer_text">Answer</string>
+    <string name="answer_button_text">Check answer</string>
+    <string name="help_button_text">Help</string>
+    <string name="easy_button_title">Easy</string>
+    <string name="doubt_button_title">Doubt</string>
+    <string name="difficult_button_title">Difficult</string>
+    <string name="no_more_cards">No more cards to show</string>
+    <string name="info_text_view_message">Number of cards left</string>
+    <string name="due_cards_format">%d cards left</string>
+    <string name="subtitle_text">Tap to study</string>
+    <string name="cards_title_text_view">Cards</string>
+    <string name="start_study">Study cards</string>
+    <string name="accept_card_edit_button_title">Accept</string>
+    <string name="cancel_card_edit_button_title">Cancel</string>
+    <string name="new_card_fab_description">New card</string>
+    <string name="added_card">Card added</string>
+    <string name="card_question_hint">Write the question text</string>
+    <string name="card_answer_hint">Write the answer text</string>
+    <string name="statistics_nav_menu_title">Stadistics</string>
+    <string name="study_nav_menu_title">Study cards</string>
+    <string name="decks_nav_menu_title">Decks</string>
+    <string name="version">Test version</string>
+    <string name="author">Author: Blanca Mercado Molero</string>
+    <string name="about">About</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="deck_name_text">Deck name</string>
+    <string name="deck_name_hint">Write the deck name</string>
+    <string name="deck_name_format">Card from deck: %s</string>
+    <string name="cards_studied_format">Cards studied: %d</string>
+    <string name="num_cards">Number of cards to study next days: %d</string>
+
+    <string name="tutorial_menu_text">When clicking on Study cards, you will study every card in your deck. If you click on Stadistics, you can check some stadistics about your study.</string>
+    <string name="tutorial_study_text">When clicking on the "Check Answer" button, you will see the answer. You can choose between 3 differents level of difficulty for every card. </string>
+    <string name="card_details">Show details</string>
+    <string name="card_details_text">Card details:</string>
+    <string name="edit_button">Edit</string>
+    <string name="next_button">Next</string>
+    <string name="delete_button">Delete</string>
+    <string name="settings_menu_title">Settings</string>
+    <string name="logout_menu_title">Logout</string>
+    <string name="download">Download</string>
+    <string name="upload">Upload</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="email_pass">Email and Password</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="log">Log in</string>
+    <string name="create">Create account</string>
+    <string name="menu">Menu</string>
+
+
+    <!-- Preference Titles -->
+    <string name="decks_header">Decks</string>
+
+    <!-- Maximum number of cards Preferences -->
+    <string name="max_number_cards">Maximum number of cards</string>
+
+    <!-- Board Preferences -->
+    <string name="board_title">Show board</string>
+    <string name="board_summary_on">Board available</string>
+    <string name="board_summary_off">Board unavailable</string>
+
+
+</resources>

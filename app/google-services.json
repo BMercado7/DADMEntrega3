@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1077149280790",
+    "project_id": "blancamercadomolerocards",
+    "storage_bucket": "blancamercadomolerocards.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077149280790:android:2ff0fec4e0d13bed34a337",
+        "android_client_info": {
+          "package_name": "es.uam.eps.dadm.cards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077149280790-7ogdg4ddgc8dbmf2rqsibcr1fpajs7sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.uam.eps.dadm.cards",
+            "certificate_hash": "2cde616f78f9bf072800aa27eb6d8693b0f46e14"
+          }
+        },
+        {
+          "client_id": "1077149280790-3ciav6b6oi95e6pf1jajb9vpahskq4pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOM1_lGiV87mjjvZ8x0u3PsyxVEdQmitQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077149280790-3ciav6b6oi95e6pf1jajb9vpahskq4pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

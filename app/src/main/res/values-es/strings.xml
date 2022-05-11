@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cards</string>
+    <string name="question_text">Pregunta</string>
+    <string name="answer_text">Respuesta</string>
+    <string name="answer_button_text">Ver respuesta</string>
+    <string name="help_button_text">Ayuda</string>
+    <string name="easy_button_title">Fácil</string>
+    <string name="doubt_button_title">Duda</string>
+    <string name="difficult_button_title">Difícil</string>
+    <string name="no_more_cards">No hay mas tarjetas que mostrar</string>
+    <string name="info_text_view_message">Numero de tarjetas restantes</string>
+    <string name="due_cards_format">quedan %d tarjetas</string>
+    <string name="subtitle_text">Toca para estudiar</string>
+    <string name="cards_title_text_view">Tarjetas</string>
+    <string name="start_study">Repasar tarjetas</string>
+    <string name="accept_card_edit_button_title">Aceptar</string>
+    <string name="cancel_card_edit_button_title">Cancelar</string>
+    <string name="new_card_fab_description">Nueva tarjeta</string>
+    <string name="added_card">Tarjeta añadida</string>
+    <string name="card_question_hint">Escribe el texto de la pregunta</string>
+    <string name="card_answer_hint">Escribe el texto de la respuesta</string>
+    <string name="statistics_nav_menu_title">Estadísticas</string>
+    <string name="study_nav_menu_title">Repasar tarjetas</string>
+    <string name="decks_nav_menu_title">Clozes</string>
+    <string name="version">Versión prueba</string>
+    <string name="author">Autora: Blanca Mercado Molero</string>
+    <string name="about">Información</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="deck_name_text">Nombre del mazo</string>
+    <string name="deck_name_hint">Escribe el nombre del mazo</string>
+    <string name="deck_name_format">Tarjeta del mazo: %s</string>
+    <string name="cards_studied_format">Tarjetas estudiadas: %d</string>
+    <string name="num_cards">Numero de tarjetas que se estudiarán los próximos días: %d</string>
+    <string name="log">Iniciar sesión</string>
+    <string name="create">Registrarse</string>
+    <string name="tutorial_menu_text">Al clicar en Repasar tarjetas, podrás repasar todas las tarjetas que contengan tus mazos. Si clica en estadísticas, podrá revisar las estadísticas del estudio.</string>
+    <string name="tutorial_study_text">Al clicar en el botón "Ver respuesta",  verás la respuesta a la pregunta. Puedes elegir entre 3 niveles de dificultad para cada tarjeta. </string>
+    <string name="card_details">Ver detalles</string>
+    <string name="card_details_text">Detalles de la tarjeta:</string>
+    <string name="edit_button">Editar</string>
+    <string name="next_button">Siguiente</string>
+    <string name="delete_button">Borrar</string>
+    <string name="settings_menu_title">Ajustes</string>
+    <string name="logout_menu_title">Cerrar sesión</string>
+    <string name="email_pass">Correo y Contraseña</string>
+    <string name="email">Correo</string>
+    <string name="pass">Contraseña</string>
+    <string name="download">Descargar</string>
+    <string name="upload">Subir</string>
+    <string name="title_activity_settings">Preferencias</string>
+    <string name="menu">Menú</string>
+
+    <!-- Preference Titles -->
+    <string name="decks_header">Mazos</string>
+
+    <!-- Maximum number of cards Preferences -->
+    <string name="max_number_cards">Número máximo de tarjetas</string>
+
+    <!-- Board Preferences -->
+    <string name="board_title">Mostrar pizarra</string>
+    <string name="board_summary_on">Pizarra disponible</string>
+    <string name="board_summary_off">Pizarra no disponible</string>
+</resources>

@@ -1,0 +1,24 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tutorial_study_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@{@string/tutorial_study_text}"
+            android:textSize="15sp" />
+
+        <ImageView
+            android:id="@+id/menu"
+            android:layout_width="296dp"
+            android:layout_marginTop="50dp"
+            android:layout_below="@id/tutorial_study_text"
+            android:layout_height="417dp"
+            android:src="@drawable/study_tutorial" />
+            andr
+    </RelativeLayout>
+</layout>

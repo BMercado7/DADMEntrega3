@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout-land/fragment_study.xml" value="0.2381786339754816" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout-land/fragment_title.xml" value="0.2381786339754816" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout-land/fragment_tutorial_menu.xml" value="0.2381786339754816" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout/activity_statistics.xml" value="0.2617753623188406" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout/activity_study.xml" value="0.2617753623188406" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout/activity_title.xml" value="0.2617753623188406" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout/fragment_about.xml" value="0.2617753623188406" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout/fragment_deck_edit.xml" value="0.2617753623188406" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout/fragment_deck_list.xml" value="0.2617753623188406" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout/fragment_emailpassword.xml" value="0.2617753623188406" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout/fragment_statistics.xml" value="0.16194331983805668" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout/fragment_study.xml" value="0.22" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout/fragment_title.xml" value="0.2617753623188406" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout/list_item_card.xml" value="0.2617753623188406" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout/list_item_deck.xml" value="0.2617753623188406" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout/nav_header.xml" value="0.6065057712486883" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/layout/settings_activity.xml" value="0.1" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/menu/fragment_card_list.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/blanc/Documents/Moviles/entrega final/Cards/app/src/main/res/menu/navdrawer_menu.xml" value="0.2833333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
